@@ -2,3 +2,5 @@
 /PIC16F628A_BareMetal_Blink.X/build/
 /PIC12F683_BareMetal_Blink.X/build/
 /PIC12F683_BareMetal_Blink.X/dist/
+/ATmega328P_BareMetal_ArduinoUNO.X/build/
+/ATmega328P_BareMetal_ArduinoUNO.X/dist/
