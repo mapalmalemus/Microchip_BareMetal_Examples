@@ -11,7 +11,7 @@ Basic Skills
 2) Microcontrolles/Microprocessor Architectures. 
 3) C/C++ Lenguage and specific Compliler Distribution.
 4) IDE tools or Ecosystem tools (Collection Tools) of embeded systems manufacture (Microchip, Espressif, Texas Instrument, NXP, etc.) 
-5) Git or subversion system used to get collaboration or example codes
+5) Git or control version systems used to get collaboration or example codes
 6) Code Structure "Programming language alone does not ensure high readability and reusability, but good coding style does"
 7) Reading skills to read highlevel and deep lectures (datasheets, manuals, startup guides, etc.)
 
